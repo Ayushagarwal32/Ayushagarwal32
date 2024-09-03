@@ -23,7 +23,7 @@
 
 🌱 Always learning and exploring emerging technologies.
 
-📖 Enjoy reading, 🎥 watching films, 👨‍🎤 listening to music, and 🏏 playing cricket.
+📖 Enjoy reading, 🎥 watching films, 👨‍🎤 listening to music, ♞ playing chess, and 🏏 playing cricket.
 
 </p>
 
