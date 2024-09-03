@@ -92,7 +92,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinyl5200&show_icons=true&locale=en&layout=compact" alt="vinyl5200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushagarwal32&show_icons=true&locale=en&layout=compact" alt="Ayushagarwal32" />
 </p>
 
 <!-- THE END -->
